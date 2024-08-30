@@ -7,6 +7,7 @@
 .signIn a{
   color:#3587ed;
   font-size: 15px;
+  cursor: pointer;
 }
 
 .faint-text{
@@ -68,6 +69,7 @@ border: none;
 .footer-text span{
   color: #1c31a7;
   opacity: 1;
+  cursor: pointer;
 }
 
 .submit{
